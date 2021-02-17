@@ -6,3 +6,5 @@ Bananas
 Yoghurts
 Custard
 Cereal
+Cucumbers
+Avocados
