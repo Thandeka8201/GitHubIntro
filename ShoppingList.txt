@@ -5,3 +5,4 @@ Oranges
 Bananas
 Yoghurts
 Custard
+Cereal
